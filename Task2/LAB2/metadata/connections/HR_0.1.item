@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_gkJmgKI7Eei6IPF_8jP1fQ" name="HR" id="_bFC5gKI7Eei6IPF_8jP1fQ" label="HR" dataPackage="_glAiIKI7Eei6IPF_8jP1fQ" DatabaseType="Oracle with service name" DriverClass="oracle.jdbc.OracleDriver" URL="jdbc:oracle:thin:@(description=(address=(protocol=tcp)(host=localhost)(port=1521))(connect_data=(service_name=orcl)))" dbVersionString="ORACLE_12" Port="1521" Username="HR" Password="1npY+p7HXgE=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="orcl" SqlSynthax="SQL Syntax" DbmsId="oracle_id" ProductId="ORACLE" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="HR">
+    <taggedValue xmi:id="_gkJmgaI7Eei6IPF_8jP1fQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_gkOfAKI7Eei6IPF_8jP1fQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_gkPGEKI7Eei6IPF_8jP1fQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_gkPGEaI7Eei6IPF_8jP1fQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_gkPGEqI7Eei6IPF_8jP1fQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_gkPGE6I7Eei6IPF_8jP1fQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_gkPGFKI7Eei6IPF_8jP1fQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_gkPGFaI7Eei6IPF_8jP1fQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_gksZEKI7Eei6IPF_8jP1fQ" tag="DB ProductName" value="Oracle"/>
+    <taggedValue xmi:id="_gksZEaI7Eei6IPF_8jP1fQ" tag="DB ProductVersion" value="Oracle Database 12c Enterprise Edition Release 12.2.0.1.0 - 64bit Production"/>
+    <taggedValue xmi:id="_gksZEqI7Eei6IPF_8jP1fQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_gkJmgqI7Eei6IPF_8jP1fQ" key="CONN_PARA_KEY_USERNAME" value="HR"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_glAiIKI7Eei6IPF_8jP1fQ" name="HR" dataManager="_gkJmgKI7Eei6IPF_8jP1fQ"/>
+</xmi:XMI>
